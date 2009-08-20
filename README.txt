@@ -1,7 +1,7 @@
 Introduction
 ============
 
-This package allows Plone users to include MultiMarkdown syntax in their Plone sites. MultiMarkdown is a derivative of John Gruber’s original Markdown project.
+This package allows Plone users to include MultiMarkdown syntax in their Plone sites. MultiMarkdown is a derivative of John Gruber's original Markdown project.
 
 To see the improved MultiMarkdown syntax, check out the `Syntax Guide <http://fletcherpenney.net/multimarkdown/users_guide/multimarkdown_syntax_guide/>`_.
 
